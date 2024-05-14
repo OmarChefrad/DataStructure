@@ -50,7 +50,7 @@ Welcome to the Data Structures Repository! This repository contains implementati
 ### Installation
 Clone the repository to your local machine:
 ```sh
-git clone https://github.com/yourusername/datastructures.git
+git clone https://github.com/OmarChefrad/datastructures.git
 cd datastructures
 ```
 
